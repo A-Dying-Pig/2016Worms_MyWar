@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="event.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="global.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="global.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="event.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="item.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\ui\start.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ui\background1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Icon1.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ui\hero1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ui\shoulei.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ui\zhunxin.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ui\zhunxin1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\red arrow.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\blue arrow.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\shouleiexplode.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\background.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ground.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ui\walk-77.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ui\throw-77.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Rocket.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\RocketExpode.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ui\Rocketfire.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ui\RocketWalk.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\desert.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Rocketpicture.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\shouleipicture.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\rocketpicture2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Frame.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\RED.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\GREEN.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitmap25.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\frame2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\0.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Wind.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\WD.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\WDstill.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Apple.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Banana.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Grape.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Jar.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\number.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\transeffect.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Trans.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\menu.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\single mission.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\menu2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\single mission-1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitmap44.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\hflower village.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\buttonantarctic.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\hdesert.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Antarctic.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\flowervillage.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Dorado.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\hdorado.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\hback.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\buttonhelp.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\help.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\end1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\end2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\end3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\end4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\end5.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\end6.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\end7.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\end8.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\resume.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\hrestart.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\hexit.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\hpause.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\tank.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\help2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\next.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\plane.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\boom.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\crate.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Versus.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\versuspicture.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\mywar.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Worms.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="res\sound\76\76－1.mp3" />
+  </ItemGroup>
+</Project>
